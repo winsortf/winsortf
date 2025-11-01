@@ -21,6 +21,18 @@
 </div>
 -->
 
+<div align="left">
+  <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
+    <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/JoseOsp" target="_blank">
+    <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+  </a>
+
+  <a href="https://app.daily.dev/winsortf" target="_blank"><img src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card"/></a>
+  
+</div>
+
 <br />
 <br />
 
