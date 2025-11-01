@@ -25,12 +25,6 @@
     <img align="right" src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card" />
   </a>
 
-  <h3>💻 About Me</h3>
-  <ul>
-    <li>💚 &nbsp; Founder.</li>
-    <li>😎 &nbsp; Software Developer and Graphic Designer (UX/UI).</li>
-    <li>💙 &nbsp; Love Design and Programming.</li>
-  </ul>
 </div>
 
 
@@ -49,7 +43,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+ <h3>💻 About Me</h3>
+  <ul>
+    <li>💚 &nbsp; Founder.</li>
+    <li>😎 &nbsp; Software Developer and Graphic Designer (UX/UI).</li>
+    <li>💙 &nbsp; Love Design and Programming.</li>
+  </ul>
 
+  -->
+  
 <h3>💻 About Me </h3>
 
 
