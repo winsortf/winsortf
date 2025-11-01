@@ -21,25 +21,16 @@
 </div>
 -->
 <div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" frame="void" rules="none">
-    <tr>
-      <!-- Left column -->
-      <td width="60%" valign="top" align="left">
-        <h3>💻 About Me</h3>
-        <ul>
-          <li>💚 &nbsp; Founder.</li>
-          <li>😎 &nbsp; Software Developer and Graphic Designer (UX/UI).</li>
-          <li>💙 &nbsp; Love Design and Programming.</li>
-        </ul>
-      </td>
-      <!-- Right column -->
-      <td width="40%" valign="top" align="right">
-        <a href="https://app.daily.dev/winsortf" target="_blank">
-          <img src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://app.daily.dev/winsortf" target="_blank">
+    <img align="right" src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card" />
+  </a>
+
+  <h3>💻 About Me</h3>
+  <ul>
+    <li>💚 &nbsp; Founder.</li>
+    <li>😎 &nbsp; Software Developer and Graphic Designer (UX/UI).</li>
+    <li>💙 &nbsp; Love Design and Programming.</li>
+  </ul>
 </div>
 
 
