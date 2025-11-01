@@ -34,21 +34,6 @@
 </div>
 
 
-<div align="left">
-  <div
-  <h3>💻 About Me </h3>
-    
-    - 💚 &nbsp; Founder.
-    - 😎 &nbsp; Software Developer and Graphic Designer (UX UI).
-    - 💙 &nbsp; Love Design and Programming.
-  </div>
-  <a href="https://app.daily.dev/winsortf" target="_blank"><img src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card"/></a>
-  
-</div>
-
-<br />
-<br />
-
 <!--
 **JoseErneyOspina/JoseErneyOspina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
