@@ -3,14 +3,14 @@
 
 <!--
 <div align="left">
-  <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
+  <a href="https://codesandbox.io/u/winsortf" target="_blank">
     <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
   <a href="https://www.linkedin.com/in/JoseOsp" target="_blank">
     <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
   </a>
 
-   <a href="https://api.daily.dev/get?r=Eydrenth" target="_blank">
+   <a href="https://api.daily.dev/get?r=winsortf" target="_blank">
     <img
       width="256"
       align="right"
@@ -132,5 +132,5 @@ impl SofDev {
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 -->
 <!--
-⭐️ From [@Eydrenth](https://github.com/eydrenth)
+⭐️ From [@winsortfh](https://github.com/eydrenth)
 -->
