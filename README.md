@@ -21,10 +21,12 @@
 </div>
 -->
 <div align="left">
+  <!--
   <a href="https://app.daily.dev/winsortf" target="_blank">
     <img align="right" src="https://api.daily.dev/devcards/v2/7d4P1qOPOOBAKspKZgzFX.png?type=default&r=ek4" width="356" alt="winsortf's Dev Card" />
   </a>
-  <a href="https://app.daily.dev/winsortf"><img src="./devcard.png" width="356" alt="winsortf's Dev Card"/></a>
+  -->
+  <a href="https://app.daily.dev/winsortf"><img align="right" src="./devcard.png" width="356" alt="winsortf's Dev Card"/></a>
 
 </div>
 
