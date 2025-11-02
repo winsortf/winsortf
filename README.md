@@ -53,14 +53,15 @@ Here are some ideas to get you started:
 
   -->
 
-![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
-  
 <h3>💻 About Me </h3>
 
 
 - 💚 &nbsp; Founder.
 - 😎 &nbsp; Software Developer and Graphic Designer (UX UI).
 - 💙 &nbsp; Love Design and Programming.
+
+![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
+
 
 ```rust
 fn main() {
