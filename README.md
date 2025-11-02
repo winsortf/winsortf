@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 😎 &nbsp; Software Developer and Graphic Designer (UX UI).
 - 💙 &nbsp; Love Design and Programming.
 
-![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/winsortf/winsortf/github-metrics/github-metrics.svg)
 
 
 ```rust
@@ -123,18 +123,18 @@ impl SofDev {
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center">
 <br>
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=eydrenth&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=winsortf&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 </br>
 <br>
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eydrenth&amp;theme=radical&amp;hide_border=false" alt="">
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=winsortf&amp;theme=radical&amp;hide_border=false" alt="">
  </br>
 <br>
- <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrenth&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+ <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winsortf&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
  </br>
 </p>
 <!--
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 -->
 <!--
-⭐️ From [@winsortfh](https://github.com/eydrenth)
+⭐️ From [@winsortfh](https://github.com/winsortf)
 -->
