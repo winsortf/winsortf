@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   </ul>
 
   -->
+
+![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
   
 <h3>💻 About Me </h3>
 
@@ -95,8 +97,6 @@ impl SofDev {
     }
 }
 ```
-
-![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
 
 <h3>🛠 Tech Stack</h3>
 
