@@ -16,6 +16,10 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.TOKEN_GITHUB }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
 
           # Options
           user: winsortf
