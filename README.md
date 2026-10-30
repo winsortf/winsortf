@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <!--
  <h3>💻 About Me</h3>
   <ul>
-    <li>💚 &nbsp; Founder.</li>
-    <li>😎 &nbsp; Forward Deployed Engineer ( FDE ) , Developer and Graphic Designer (UX/UI).</li>
-    <li>💙 &nbsp; Love Design and Programming.</li>
+    <li>💚 &nbsp; Forward Deployed Engineer ( FDE )</li>
+    <li>😎 &nbsp; AI | Robotics ( Physical AI ) | Cybersecurity</li>
+    <li>💙 &nbsp; Love Design, Programming and Robotics</li>
   </ul>
 
   -->
